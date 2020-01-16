@@ -1,0 +1,5 @@
+body {background: silver}
+
+
+.flex-container { display: inline-block;  margin-left: auto; margin-right:auto; width:50%; }
+.squirrelheader {background-color: white;}

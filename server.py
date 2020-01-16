@@ -26,3 +26,4 @@ def serve_any_other_file(path):
     return send_from_directory(static_file_dir, path)
 
 app.run(host='0.0.0.0',port=3000, debug=True)
+
